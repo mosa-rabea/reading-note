@@ -6,5 +6,5 @@
 | read        | link        |
 | ----------- | ----------- |
 | read 1      | [read 1](read1.md)      |
-|             |         |
-|             |         |
+| read 2       | [read 2](read2.md)        |
+| Wireframe-and-Design| [Wireframe-and-Design](Wireframe-and-Design.md)      |
